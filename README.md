@@ -24,8 +24,6 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)
 
-Obrigado por visitar o meu perfil! Vamos colaborar e criar coisas incríveis juntos! 🚀
-
 <!---
 dev-diniz/dev-diniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
