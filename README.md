@@ -2,7 +2,7 @@
 
 Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento web e open source. Atualmente, estou explorando o vasto mundo da programação e aprendendo algo novo todos os dias.
 
-- 💻 Atualmente, estou cursando [Informática para internet] na [ETEC].
+- 💻 Atualmente, estou cursando Informática para internet na ETEC.
 - 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento web.
 - 🚀 Sou apaixonado por contribuir para projetos de código aberto e estou sempre procurando oportunidades para colaborar.
 - 💬 Adoro compartilhar meu conhecimento e ajudar outros desenvolvedores, então sinta-se à vontade para entrar em contato comigo.
