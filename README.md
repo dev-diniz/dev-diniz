@@ -1,11 +1,15 @@
  ### Olá, eu sou Gustavo Diniz! 👋
 
-Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento web e open source. Atualmente, estou explorando o vasto mundo da programação e aprendendo algo novo todos os dias.
+Sou estudante da tecnologia apaixonado por programação, desenvolvimento web e open source. Atualmente, estou explorando o mundo da programação e aprendendo algo novo todos os dias.
 
 - 💻 Atualmente, estou cursando Informática para internet na ETEC.
 - 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento web.
-- 🚀 Sou apaixonado por contribuir para projetos de código aberto e estou sempre procurando oportunidades para colaborar.
 - 💬 Adoro compartilhar meu conhecimento e ajudar outros desenvolvedores, então sinta-se à vontade para entrar em contato comigo.
+
+### 📫 Me encontre redes sociais:
+
+- [LinkedIn](https://www.linkedin.com/in/gustavo-diniz-172554260/)
+- [Email](dinizgustavo717@gmail.com)
 
 ### Principais Tecnologias e Ferramentas
 
@@ -15,14 +19,10 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-📫 Me encontre redes sociais:
-
-- [LinkedIn](https://www.linkedin.com/in/gustavo-diniz-172554260/)
-- [Email](dinizgustavo717@gmail.com)
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-diniz&show_icons=true&theme=dark)
 
 <!---
 dev-diniz/dev-diniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
